@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f7940bc.css",
+    "main.js": "/static/js/main.457d2285.js",
+    "static/media/group_cover.jpeg": "/static/media/group_cover.3ad48593f85b72662522.jpeg",
+    "static/media/ESTIEM_feher logo.png": "/static/media/ESTIEM_feher logo.c0e623bdb7fe93c6fe95.png",
+    "index.html": "/index.html",
+    "main.6f7940bc.css.map": "/static/css/main.6f7940bc.css.map",
+    "main.457d2285.js.map": "/static/js/main.457d2285.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f7940bc.css",
+    "static/js/main.457d2285.js"
+  ]
+}
